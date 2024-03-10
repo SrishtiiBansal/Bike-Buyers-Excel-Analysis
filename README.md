@@ -61,6 +61,8 @@ Dashboard: A comprehensive dashboard consolidating key insights and metrics deri
 
 •	Trends and correlations
 
+**Project File Link: https://docs.google.com/spreadsheets/d/1KzvjndTCLFkKCmRO045r1LNRGGETJQn6CtHS5fYwcAE/edit?usp=sharing**
+
 **Conclusion**
 
 Through this project, we aim to offer valuable insights into the bike buying behavior of customers, aiding stakeholders in decision-making processes related to marketing strategies, product offerings, etc.
